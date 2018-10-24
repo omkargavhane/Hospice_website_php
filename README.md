@@ -9,4 +9,3 @@ keypoint-------->
   3.more DYNAMIC content than static.
   4.use of JAVASCRIPT
   5.whole website is build using BOOTSTRAP framework v3.37
-  
